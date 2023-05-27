@@ -1,6 +1,4 @@
- <h1 align="center">Hi 👋 I'm Emrah AKÇAL</h1>
- <h2 align="center">I'm a Front End Developer from Turkey.</h2> 
-
+ <h1 align="center">Hi There👋</h1>
 <p>👍 He likes to write clean code and learn new things.</p>
 <p>👍 He likes to leave little notes for his teammates to understand more easily.</p>
 <p>👍 He is a person who likes to work in a team and share his knowledge.</p> 
