@@ -1,7 +1,7 @@
  <h1>Hi There👋</h1>
  <h3>Welcome to my Github Profile</h3>
-<p>👍 He likes to write clean code and learn new things.</p>
-<p>👍 He likes to leave little notes for his teammates to understand more easily.</p>
+<p>👍 He likes to write clean code and leave little notes for his teammates to understand more easily. </p>
+<p>👍 He likes to learn new things. </p>
 <p>👍 He is a person who likes to work in a team and share his knowledge.</p> 
 <p>👍 He likes to work with people who are open to learning and sharing.</p> 
 <p>👍 He likes different perspectives and criticism. Because they give him different experiences.</p> 
