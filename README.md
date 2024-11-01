@@ -28,6 +28,27 @@
       style="max-width:100%;"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
  </a>
+  <a href="https://nodejs.org/" title="NodeJS">
+ <img align="center"  
+      height="50" 
+      width="50"
+      style="max-width:100%;"
+      src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*TY9uBBO9leUbRtlXmQBiug.png" />
+ </a>
+ <a href="https://expressjs.com/" title="ExpressJS">
+ <img align="center"  
+      height="50" 
+      width="50"
+      style="max-width:100%;"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrq4Je7z6sTWiUmCy2ROVBWjrkv67wBxhDA&s" />
+ </a>
+ <a href="https://www.postgresql.org/" title="PostgreSQL">
+ <img align="center"  
+      height="50" 
+      width="50"
+      style="max-width:100%;"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8IuOGPHRleZpsOK5GETHFVqxB1nurxle1g&s" />
+ </a>
   <a href="https://nextjs.org/" title="NextJS">
  <img align="center"  
       height="50" 
